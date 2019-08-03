@@ -31,7 +31,7 @@ namespace SudokuGame
         {
             InitializeComponent();
             InitData();
-            InitSudoIntoGrid(grid_sudo,m_data);
+            InitSudoIntoGrid(grid_sudo,m_data0);
         }
         private void InitData()
         {
